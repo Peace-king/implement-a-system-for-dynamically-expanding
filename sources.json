@@ -1,0 +1,15 @@
+{
+  "sources": [
+    {
+      "name": "ai_wikipedia",
+      "type": "web",
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+    },
+    {
+      "name": "local_notes",
+      "type": "text",
+      "path": "data/notes.txt"
+    }
+  ]
+}
+

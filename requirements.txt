@@ -1,0 +1,9 @@
+chromadb
+sentence-transformers
+requests
+beautifulsoup4
+pypdf
+apscheduler
+openai
+python-dotenv
+
